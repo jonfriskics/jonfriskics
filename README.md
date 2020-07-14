@@ -1,10 +1,16 @@
 ### Hello friend.
 
-- I'm Jon
-- I'm currently leading a small team and working on **products** and **resources** that empower **technology teachers and content creators**, which we call Authors, at Pluralsight.
-- I came to Pluralsight via Code School (acquired 2014), where I created content, strategy, and products for best-in-class interactive learning experiences.
-- I've created engaging video and interactive content for learning technology skills on topics like iOS (Objective-C and then Swift), Angular, React, HTML/CSS, and Docker, and been fortunate enough to guide and coach subject matter experts through creating dozens of other courses.
-- I've presented at conferences and meetups about iOS development, web development, instructional design, and edtech.  In my prior career in academia, I co-authored several papers on innovating in education with technology.
+I'm Jon.
+
+I'm currently leading a small team and working on **products** and **resources** that empower **technology teachers and content creators**, which we call Authors, at Pluralsight.
+
+I came to Pluralsight via Code School (acquired 2014), where I created content, strategy, and products for best-in-class interactive learning experiences.
+
+I've created engaging video and interactive content for learning technology skills on topics like iOS (Objective-C and then Swift), Angular, React, HTML/CSS, and Docker, and been fortunate enough to guide and coach subject matter experts through creating dozens of other courses.
+
+I've presented at conferences and meetups about iOS development, web development, instructional design, learning and edtech.  In my prior career in academia, I co-authored several papers on innovating in education with technology.
+
+Most of the code I've written in the last few years I'm not able to share publicly here.
 
 #### How to contact me
 
