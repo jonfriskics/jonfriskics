@@ -2,7 +2,7 @@
 
 I'm Jon.
 
-I'm currently leading a small team and working on **products** and **resources** that empower **technology teachers and content creators**, which we call Authors, at Pluralsight.
+I'm currently working on **products** and **resources** that empower **technology teachers and content creators**, which we call Authors, at Pluralsight.
 
 I came to Pluralsight via Code School (acquired 2014), where I created content, strategy, and products for best-in-class interactive learning experiences.
 
