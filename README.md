@@ -1,16 +1,14 @@
-### Hello friend.
+## Hi, I'm Jon.
 
-I'm Jon.
+I'm interested in learning products and content, especially **products** and **resources** that empower **technology teachers and content creators**.
 
-I'm currently working on **products** and **resources** that empower **technology teachers and content creators**, which we call Authors, at Pluralsight.
-
-I came to Pluralsight via Code School (acquired 2014), where I created content, strategy, and products for best-in-class interactive learning experiences.
+In my time at Pluralsight and Code School (acquired 2014), I created content, strategy, and products for best-in-class interactive learning experiences.
 
 I've created engaging video and interactive content for learning technology skills on topics like iOS (Objective-C and then Swift), Angular, React, HTML/CSS, and Docker, and been fortunate enough to guide and coach subject matter experts through creating dozens of other courses.
 
 #### How to contact me
 
-I've intentionally been limiting social media for the past few years, but I can sometimes be found on 🐦 [Twitter](https://twitter.com/jonfriskics) and 🕴[LinkedIn](https://www.linkedin.com/in/jon-friskics-961a077)
+I've intentionally been limiting social media for the past few years, but I can sometimes be found on 🐘 [Mastodon](https://mastodon.social/@jonfriskics) and 🕴 [LinkedIn](https://www.linkedin.com/in/jon-friskics-961a077)
 
 I can also be reached by email at [jonfriskics@gmail.com](jonfriskics@gmail.com).
 
